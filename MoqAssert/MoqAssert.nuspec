@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MoqAssert</id>
+    <title>MoqAssert by Kralizek</title>
+    <version>$version$</version>
+    <authors>Renato Golia</authors>
+    <owners>Renato Golia</owners>
+    <licenseUrl>https://github.com/Kralizek/MoqAssert/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Kralizek/MoqAssert</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple package to speed up the assertion of parameters of methods mocked with Moq</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>unittesting nunit moq unittest assert</tags>
+  </metadata>
+</package>
